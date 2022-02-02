@@ -7,16 +7,16 @@ LICENCE: [MIT](./license.mg)
 ---
 
 ### Содержание:
-1. [git config](./config.md)
+1. [git status](./status.md)
 2. [git init](./init.md)
 3. [git add](./add.md)
 4. [git commit](./commit.md)
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
+5. [git diff](./diff.md)
+6. [git difftool](./difftool.md)
+7. [git reset](./reset.md)
+8. [git rm](./rm.md)
+9. [git mv](./mv.md)
+10. [git clean](./clean.md)
 
 ---
 
